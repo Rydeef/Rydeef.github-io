@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rydeef.github.io/static/css/main.7c0ce1b7.chunk.css",
+    "main.js": "/Rydeef.github.io/static/js/main.5d2ebbe7.chunk.js",
+    "main.js.map": "/Rydeef.github.io/static/js/main.5d2ebbe7.chunk.js.map",
+    "runtime-main.js": "/Rydeef.github.io/static/js/runtime-main.fd3bdcae.js",
+    "runtime-main.js.map": "/Rydeef.github.io/static/js/runtime-main.fd3bdcae.js.map",
+    "static/js/2.aeb95f89.chunk.js": "/Rydeef.github.io/static/js/2.aeb95f89.chunk.js",
+    "static/js/2.aeb95f89.chunk.js.map": "/Rydeef.github.io/static/js/2.aeb95f89.chunk.js.map",
+    "index.html": "/Rydeef.github.io/index.html",
+    "precache-manifest.82f4d4bc0c6283a13d74fc6fb0e73c58.js": "/Rydeef.github.io/precache-manifest.82f4d4bc0c6283a13d74fc6fb0e73c58.js",
+    "service-worker.js": "/Rydeef.github.io/service-worker.js",
+    "static/css/main.7c0ce1b7.chunk.css.map": "/Rydeef.github.io/static/css/main.7c0ce1b7.chunk.css.map",
+    "static/js/2.aeb95f89.chunk.js.LICENSE.txt": "/Rydeef.github.io/static/js/2.aeb95f89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd3bdcae.js",
+    "static/js/2.aeb95f89.chunk.js",
+    "static/css/main.7c0ce1b7.chunk.css",
+    "static/js/main.5d2ebbe7.chunk.js"
+  ]
+}
