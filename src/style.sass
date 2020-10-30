@@ -1,0 +1,105 @@
+body
+    background-color: #928787
+
+.container
+    width: 80%
+    height: 30em
+    margin: 0 auto
+    .calc
+        border-radius: 6px
+        box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+        margin: 1em auto
+        width: 30em
+        height: 40em
+        background-color: #353434
+        &-input
+            text-shadow: 0px 0px 4px #ffffff
+            border: none
+            background-color: #6b6b6b
+            height: 3em
+            width: 95% 
+            padding: 0.5em
+            text-align: right
+            font-size: 24px
+            color: #ffffffc5
+                 
+        &-input:focus
+            outline: none
+        &-clear
+            text-shadow: 0px 0px 4px #5f5f5f 
+            box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75); 
+            border: none
+            background-color: #000000a9
+            transition-duration: .3s
+            margin-top: .3em
+            height: 2em
+            width: 75%
+            padding: 0.5em
+            text-align: center
+            font-size: 24px
+            color: #a0a0a0 
+        &-clear:focus
+            outline: none
+        &-clear:hover
+            background-color: #0000004b
+            transition-duration: .3s
+        &-undo
+            text-shadow: 0px 0px 4px #5f5f5f 
+            box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75); 
+            border: none
+            background-color: #131313a9
+            width: 25%
+            height: 2em
+            padding: 0.5em
+            font-size: 24px
+            color: #a0a0a0 
+            text-align: center
+        &-undo:focus
+            outline: none
+        &-undo:hover
+            background-color: #5e5e5e4b
+            transition-duration: .3s
+        &-buttons
+            display: flex
+            justify-content: space-between
+            margin-top: .5em
+            height: 30em
+            &-numbers
+                width: 75%
+                height: 30em
+                display: flex
+                flex-wrap: wrap
+                button
+                    border-radius: 6px
+                    text-shadow: 0px 0px 4px #ffffff
+                    transition-duration: .3s
+                    background-color:#6b6b6b
+                    border: none
+                    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+                    font-size: 18px
+                    color: #ffffffc5 
+                    margin: .5em
+                    width: 5.5em
+                    height: 5.5em
+            &-actions
+                width: 25%
+                height: 30em
+                display: flex
+                flex-wrap: wrap
+                button
+                    border-radius: 6px
+                    text-shadow: 0px 0px 4px #ffffff
+                    transition-duration: .3s
+                    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+                    background-color: #6b6b6b
+                    border: none
+                    font-size: 18px
+                    color: #ffffffc5  
+                    margin: .5em
+                    width: 5.5em
+                    height: 5.5em
+            button:hover
+                background-color: #6e6d6d4b
+                transition-duration: .3s
+            button:focus
+                outline: none
